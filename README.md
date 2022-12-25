@@ -1,4 +1,4 @@
-##### I made this app as an educational introduction to developing modern hybrid apps fast with React-Native through a great tutorial from PapaReact. Amazing that he can build this in just 4 hours!
+## I made this app as an educational introduction to developing modern hybrid apps fast with React-Native through a great tutorial from PapaReact. Amazing that he can build this in just 4 hours!
 ###### Tutorial link: 
 [🔴 Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)](https://www.youtube.com/watch?v=taPz40VmyzQ)
 
@@ -15,18 +15,21 @@ Expo, Sanity, Redux, Navigation, Tailwind CSS (NativeWind), react-native-maps
 
 ### Installation:
 1. create an account at https://www.sanity.io/sonny
-2. git clone https://github.com/oxillix/deliveroo-clone.git
-3. run sanity local server
+2. Clone project
+```
+git clone https://github.com/oxillix/deliveroo-clone.git
+```
+3. install & run sanity local server
 ```bash
-cd sanity && npm run dev
+cd deliveroo-clone/sanity; npm install; npm run dev
 ```
 4. Import sanity dataset
 ```bash
-sanity dataset import sanity/production.tar.gz production
+sanity dataset import production.tar.gz production
 ```
 5. Install dependencies (from root folder)
 ```
-  npx expo install
+npm install; npx expo install
 ```
 6. Run expo cli (from root folder)
 ```
