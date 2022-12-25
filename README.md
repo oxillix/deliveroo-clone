@@ -49,6 +49,7 @@ npx expo start
 - How to make GROQ queries (Sanity's query language)
 - Handy Tailwind arbitrary value notation e.g. bg-[#00CCBB], instead of creating custom theme.colors
 - Handy extensions: Auto Close Tag, Auto Import, Auto rename Tag, ES7 React/Redux/React-Native snippets, Import Cost, npm Intellisense, Prettier, SonarLint, vscode-styled-components, vscode-icons, TailwindCSS intellisense
+- I ❤️ React & RN and want to make it my job
 
 ### Improvements I made
 - nativewind instead of tailwindcss-react-native
