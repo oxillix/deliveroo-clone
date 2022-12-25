@@ -16,7 +16,7 @@ Expo, Sanity, Redux, Navigation, Tailwind CSS (NativeWind), react-native-maps
 ### Installation:
 1. create an account at https://www.sanity.io/sonny
 2. Clone project
-```
+```bash
 git clone https://github.com/oxillix/deliveroo-clone.git
 ```
 3. install & run sanity local server
@@ -28,11 +28,11 @@ cd deliveroo-clone/sanity; npm install; npm run dev
 sanity dataset import production.tar.gz production
 ```
 5. Install dependencies (from root folder)
-```
+```bash
 npm install; npx expo install
 ```
 6. Run expo cli (from root folder)
-```
+```bash
 npx expo start
 ```
 
