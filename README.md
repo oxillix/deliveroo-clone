@@ -6,9 +6,13 @@
 ![demo.gif](demo.gif)
 
 ### Live Demo (scan with expo app):
-**(Only Burger King and Dunkin Donuts have dishes)**
-![expo-go.svg](expo-go.svg)
 
+<div width="1/4">
+  <img src="expo-go.svg" alt="drawing" style="width:33%"/>
+  <a href='https://play.google.com/store/apps/details?id=host.exp.exponent&hl=nl&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+</div>
+
+**(Only Burger King and Dunkin Donuts have dishes)**
 
 ### Technologies used:
 Expo, Sanity, Redux, Navigation, Tailwind CSS (NativeWind), react-native-maps
