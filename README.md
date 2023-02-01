@@ -1,4 +1,4 @@
-## I made this app as an educational introduction to developing modern hybrid apps fast with React-Native through a great tutorial from PapaReact. Amazing that he can build this in just 4 hours!
+## I made this app as an educational introduction to developing modern hybrid apps fast with React-Native through a great tutorial from PapaReact. 
 ###### Tutorial link: 
 [🔴 Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)](https://www.youtube.com/watch?v=taPz40VmyzQ)
 
